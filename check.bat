@@ -5,6 +5,7 @@ if errorlevel 1 goto error
 
 :next
 echo everything is fine
+pause
 goto exit
 
 :error
